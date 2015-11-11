@@ -1,0 +1,1 @@
+This is the git Quickfire Challenge from Amanda Bausch
